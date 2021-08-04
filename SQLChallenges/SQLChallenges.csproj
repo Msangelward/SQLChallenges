@@ -45,7 +45,6 @@
   <ItemGroup>
     <Compile Include="Examples\BonusChallenge_Slack\MessageThread.cs" />
     <Compile Include="Examples\BonusChallenge_Slack\User.cs" />
-    <Compile Include="Examples\BonusChallenge_Slack\UserMessageThread.cs" />
     <Compile Include="Examples\Challenge1_FlightManangement\Flight.cs" />
     <Compile Include="Examples\Challenge2_ATT\Technician.cs" />
     <Compile Include="Examples\Challenge2_ATT\Vehicle.cs" />

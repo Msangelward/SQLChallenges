@@ -11,6 +11,6 @@ namespace SQLChallenges.Examples.Challenge2_ATT
         public int VehicleId { get; set; }
         public string LicensePlate { get; set; }
         public string VIN { get; set; }
-        public decimal Miles { get; set; }
+        public double Miles { get; set; }
     }
 }
